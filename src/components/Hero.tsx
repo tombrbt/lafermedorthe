@@ -25,6 +25,8 @@ export default function Hero() {
           Cuisine du terroir et produits frais depuis 1948.
         </p>
         <CTAButton text="Réserver une table" href="tel:0681627472" />
+                {/* mettre maps */}
+
       </div>
     </section>
   )

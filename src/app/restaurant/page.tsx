@@ -7,7 +7,7 @@ export default function RestaurantPage() {
       <Section
         title="L’histoire de La Ferme d’Orthe"
         subtitle="Une maison de caractère"
-        className="bg-[var(--beige)]  "
+        className="bg-[var(--beige)]  mt-6"
         
 
         content={
